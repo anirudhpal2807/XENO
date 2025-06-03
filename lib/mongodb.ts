@@ -1,10 +1,10 @@
 import { MongoClient } from "mongodb";
 
-const uri = process.env.NEXT_PUBLIC_BASE_URL as string;
+const uri = process.env.MONGODB_URI as string;
 const options = {};
 
 if (!uri) {
-  throw new Error("Please add your MongoDB URI to .env (NEXT_PUBLIC_BASE_URL)");
+  throw new Error("Please add your MongoDB URI to .env (MONGODB_URI)");
 }
 
 let client;

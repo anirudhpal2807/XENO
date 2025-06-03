@@ -1,7 +1,6 @@
 # Xeno CRM Platform
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 A modern Customer Relationship Management platform built for the Xeno SDE Internship Assignment 2025. This platform enables intelligent customer segmentation, personalized campaign delivery, and AI-powered insights.
 
@@ -284,5 +283,5 @@ This project is part of the Xeno SDE Internship Assignment 2025.
 ## 📬 Contact
 
 For questions, feedback, or contributions, please contact:
-- [Your Name](mailto:your.email@example.com)
-- [GitHub Issues](https://github.com/your-repo/issues)
+- Anirudh pal
+- palanirudh8299@gmail.com
